@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align=”center”>
+<img height=”200" src=”https://user-images.githubusercontent.com/84571609/132731146-9f2e0056-8ba8-4229-aac8-c90340cd9ef0.png" alt=”my banner”>
+</p>
 
 <!--
 **haglea/haglea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

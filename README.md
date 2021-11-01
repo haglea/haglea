@@ -1,9 +1,6 @@
-<p align=”center”>
-<img height=”200" src=”https://user-images.githubusercontent.com/84571609/132731146-9f2e0056-8ba8-4229-aac8-c90340cd9ef0.png" alt=”mybanner”>
-</p>
+![banner](https://user-images.githubusercontent.com/84571609/139667095-53fff30b-4271-4277-9fbf-b2907ef411ef.jpg)
 
-<h1 align="center">Hi 👋, I'm Lea.</h1>
-<h3 align="center">I am a passionate Full Stack Web Developer and Student at Strive School.</h3>
+<h3 align="center">I am a passionate Full Stack Web Developer and Student at Strive School 👋.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haglea&label=Profile%20views&color=0e75b6&style=flat" alt="haglea" /> </p>
 

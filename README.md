@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/84571609/140617007-773c1a9f-e601-4ff1-983c-bcc684aaee42.png)
+![banner](https://user-images.githubusercontent.com/84571609/140617495-4f5d911d-b813-45fa-8ced-ca3fedf53022.png)
 
 <h3 align="center">I am a passionate Full Stack Web Developer and Student at Strive School 👋.</h3>
 

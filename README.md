@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haglea&label=Profile%20views&color=0e75b6&style=flat" alt="haglea" /> </p>
 
-- 🔭 I’m currently working on **my capstone project at Strive School.**
+- 🔭 I’m currently preparing **my capstone project at Strive School.**
 
-- 🌱 I’m currently learning **ServiceNow platform.**
+- 🌱 I’m currently working on **ServiceNow platform applications.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

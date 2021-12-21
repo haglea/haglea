@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/84571609/140617495-4f5d911d-b813-45fa-8ced-ca3fedf53022.png)
 
-<h3 align="center">I am a passionate Full Stack Web Developer and Student at Strive School 👋.</h3>
+<h3 align="center">I am a passionate Full Stack Web Developer and Graduate from Strive School 👋.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haglea&label=Profile%20views&color=0e75b6&style=flat" alt="haglea" /> </p>
 
-- 🔭 I’m currently preparing **my capstone project at Strive School.**
+- 🔭 I’m currently programming **MERN applications.**
 
 - 🌱 I’m currently working on **ServiceNow platform applications.**
 
